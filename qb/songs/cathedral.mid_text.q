@@ -1,0 +1,5 @@
+cathedral_guitar_markers_text_d8c945ca = qs("Catacombs")
+cathedral_guitar_markers_text_5b0fd25d = qs("Sermon")
+cathedral_guitar_markers_text_ce7af191 = qs("Communion")
+cathedral_guitar_markers_text_c2009d9d = qs("Benediction")
+cathedral_guitar_markers_text_fe9fe76c = qs("\L_ENDOFSONG")

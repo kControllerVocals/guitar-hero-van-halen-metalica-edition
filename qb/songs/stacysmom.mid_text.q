@@ -1,0 +1,8 @@
+stacysmom_guitar_markers_text_e5fa3adf = qs("Intro")
+stacysmom_guitar_markers_text_c5cccaf7 = qs("Verse 1")
+stacysmom_guitar_markers_text_c85c2953 = qs("Chorus 1")
+stacysmom_guitar_markers_text_5cc59b4d = qs("Verse 2")
+stacysmom_guitar_markers_text_515578e9 = qs("Chorus 2")
+stacysmom_guitar_markers_text_a1833473 = qs("Guitar Solo")
+stacysmom_guitar_markers_text_2652487f = qs("Chorus 3")
+stacysmom_guitar_markers_text_eda21fe1 = qs("Outro")

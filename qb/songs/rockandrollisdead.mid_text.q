@@ -1,0 +1,8 @@
+rockandrollisdead_guitar_markers_text_695e8fa1 = qs("Tick-Tock Rock")
+rockandrollisdead_guitar_markers_text_86df8a05 = qs("All In")
+rockandrollisdead_guitar_markers_text_c5cccaf7 = qs("Verse 1")
+rockandrollisdead_guitar_markers_text_c85c2953 = qs("Chorus 1")
+rockandrollisdead_guitar_markers_text_5cc59b4d = qs("Verse 2")
+rockandrollisdead_guitar_markers_text_515578e9 = qs("Chorus 2")
+rockandrollisdead_guitar_markers_text_f0fffbee = qs("Solo")
+rockandrollisdead_guitar_markers_text_eda21fe1 = qs("Outro")

@@ -1,0 +1,8 @@
+pain_guitar_markers_text_e5fa3adf = qs("Intro")
+pain_guitar_markers_text_c85c2953 = qs("Chorus 1")
+pain_guitar_markers_text_2d081960 = qs("Verse")
+pain_guitar_markers_text_8a5eb8e7 = qs("Pre-Chorus")
+pain_guitar_markers_text_515578e9 = qs("Chorus 2")
+pain_guitar_markers_text_9687f060 = qs("Bridge")
+pain_guitar_markers_text_f0fffbee = qs("Solo")
+pain_guitar_markers_text_2652487f = qs("Chorus 3")
