@@ -1,7 +1,7 @@
 GH4_Career_Guitar_Songs = {
 	prefix = 'career_guitar'
 	part = guitar
-	num_tiers = 9
+	num_tiers = 10
 	tier1 = {
 		$gh4_3_intro_tier
 	}
@@ -116,7 +116,24 @@ GH4_Career_Guitar_Songs = {
 			MyApocalypse
 		]
 		level = load_z_London
-		stars = 69
+		stars = 0
+	}
+	tier10 = {
+		title = qs("Death Magnetic Downloadable Content")
+		songs = [
+			ThatWasJustYourLife
+			TheEndOfTheLine
+			BrokenBeatAndScarred
+			TheDayThatNeverComes
+			Cyanide
+			TheUnforgivenIII
+			TheJudasKiss
+			SuicideAndRedemptionJ
+			SuicideAndRedemptionK
+			MyApocalypse
+		]
+		level = load_z_London
+		stars = 1000
 	}
 }
 GH4_Career_Guitar_Progression_Unlock_Order = {
@@ -157,6 +174,10 @@ GH4_Career_Guitar_Progression_Unlock_Order = {
 		gig9 = {
 			name = 'gig9'
 			num = 9
+		}
+		gig10 = {
+			name = 'gig10'
+			num = 10
 		}
 	}
 }
