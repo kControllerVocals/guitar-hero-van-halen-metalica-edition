@@ -30,7 +30,7 @@ GH4_Career_Guitar_Songs = {
 		stars = 16
 	}
 	tier4 = {
-		title = qs("Guest Artists in Rome")
+		title = qs("Metal up your ass")
 		songs = [
 			TheBoysAreBack
 			StackedActors
@@ -64,7 +64,7 @@ GH4_Career_Guitar_Songs = {
 		stars = 33
 	}
 	tier6 = {
-		title = qs("Guest Artists in Berlin")
+		title = qs("oh this is getting hard now")
 		songs = [
 			BloodAndThunder
 			BeautifulMourning
@@ -79,7 +79,7 @@ GH4_Career_Guitar_Songs = {
 		stars = 42
 	}
 	tier7 = {
-		title = qs("Van Halen in Dallas")
+		title = qs("heavy fucking metal")
 		songs = [
 			AmIEvil
 			Evil
@@ -94,7 +94,7 @@ GH4_Career_Guitar_Songs = {
 		stars = 51
 	}
 	tier8 = {
-		title = qs("Guest Artists in London")
+		title = qs("why is this the last song")
 		songs = [
 			TheThingThat
 		]
@@ -102,7 +102,7 @@ GH4_Career_Guitar_Songs = {
 		stars = 60
 	}
 	tier9 = {
-		title = qs("Van Halen in The Netherlands")
+		title = qs("Death Magnetic Downloadable Content")
 		songs = [
 			ThatWasJustYourLife
 			TheEndOfTheLine

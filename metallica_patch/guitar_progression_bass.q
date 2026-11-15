@@ -30,7 +30,7 @@ GH4_Career_Bass_Songs = {
 		stars = 16
 	}
 	tier4 = {
-		title = qs("Guest Artists in Rome")
+		title = qs("Metal up your ass")
 		songs = [
 			stonecoldcrazy
 			Toxicity
@@ -61,10 +61,10 @@ GH4_Career_Bass_Songs = {
 			sanitarium
 		]
 		stars = 33
-		level = load_z_s_stage
+		level = load_z_frankenstrat
 	}
 	tier6 = {
-		title = qs("Guest Artists in Berlin")
+		title = qs("oh this is getting hard now")
 		songs = [
 			BlackRiver
 			BloodAndThunder
@@ -79,7 +79,7 @@ GH4_Career_Bass_Songs = {
 		level = load_z_paris
 	}
 	tier7 = {
-		title = qs("Van Halen in Dallas")
+		title = qs("heavy fucking metal")
 		songs = [
 			Evil
 			AceOfSpades
@@ -94,15 +94,15 @@ GH4_Career_Bass_Songs = {
 		level = load_z_drum_kit
 	}
 	tier8 = {
-		title = qs("Guest Artists in London")
+		title = qs("why is this the last song")
 		songs = [
 			TheThingThat
 		]
 		stars = 60
-		level = load_z_London
+		level = load_z_Starwood
 	}
 	tier9 = {
-		title = qs("Van Halen in The Netherlands")
+		title = qs("Death Magnetic Downloadable Content")
 		songs = [
 			ThatWasJustYourLife
 			TheEndOfTheLine
@@ -116,7 +116,7 @@ GH4_Career_Bass_Songs = {
 			MyApocalypse
 		]
 		stars = 69
-		level = load_z_frankenstrat
+		level = load_z_London
 	}
 }
 GH4_Career_Bass_Progression_Unlock_Order = {

@@ -1,114 +1,119 @@
 GH4_Career_Vocals_Songs = {
 	prefix = 'career_vocals'
 	part = Vocals
-	num_tiers = 10
+	num_tiers = 9
 	tier1 = {
 		$gh4_3_intro_tier
 	}
 	tier2 = {
-		title = qs("Guest Artists in Los Angeles")
+		title = qs("These Guest Artists are more fitting than the original ones")
 		songs = [
-			PrettyFlyForAWhiteGuy
-			EndOfHeartache
-			BestOfYou
-			WhiteWedding
-			MasterExploder
+			BloodAndThunder
+			BeautifulMourning
+			DemonCleaner
+			AceOfSpades
+			TurnThePage
 		]
 		stars = 6
 		level = load_z_la_block_party
 	}
 	tier3 = {
-		title = qs("Van Halen in West Hollywood")
+		title = qs("Metallica YEAH YEAH")
 		songs = [
-			EverybodyWantsSome
-			AndtheCradleWillRock
-			HangEmHigh
-			SomebodyGetMeADoctor
-			prettywoman
+			nothingelsematters
+			fadetoblack
+			ONE
+			EnterSandman
+			NoLeafClover
 		]
 		level = load_z_Starwood
 		stars = 16
 	}
 	tier4 = {
-		title = qs("Guest Artists in Rome")
+		title = qs("Metal up your ass")
 		songs = [
-			RockAndRollIsDead
-			TheTakedown
-			Painkiller
-			SpaceTruckin
-			ComeToLife
+			WarEnsemble
+			HellBentForLeather
+			WarInsideMyHead
+			MotherOfMercy
+			ArmedAndReady
+			sanitarium
+			kingnothing
+			SadButTrue
+			WhereverIMayRoam
+			TheMemoryRemains
 		]
 		stars = 24
 		level = load_z_rome
 	}
 	tier5 = {
-		title = qs("Van Halen in New York City")
+		title = qs("Guys i don't think that's the same game anymore")
 		songs = [
-			LossOfControl
-			JamiesCryin
-			RomeoDelight
-			AtomicPunk
-			Jump
+			MommysLittleMonster
+			BlackRiver
+			StackedActors
+			TuesdaysGone
+			Toxicity
+			fuel
+			allnightmarelong
+			frantic
+			DyersEve
+			theshorteststraw
 		]
 		stars = 33
-		level = load_z_s_stage
+		level = load_z_frankenstrat
 	}
 	tier6 = {
-		title = qs("Guest Artists in Berlin")
+		title = qs("oh this is getting hard now")
 		songs = [
-			Pain
-			StacysMom
-			FirstDate
-			SickSickSick
-			SafeEuropeanHome
+			TheBoysAreBack
+			Albatross
+			AmIEvil
+			disposeableheroes
+			seekanddestroy
+			CreepingDeath
+			masterofpuppets
+			battery
 		]
 		stars = 42
 		level = load_z_paris
 	}
 	tier7 = {
-		title = qs("Van Halen in Dallas")
+		title = qs("heavy fucking metal")
 		songs = [
-			UNCHAINED
-			BeautifulGirls
-			IceCreamMan
-			ainttalkinboutlove
-			ImTheOne
+			Evil
+			NoExcuses
+			stonecoldcrazy
+			hitthelights
+			mercyfulfate
+			FightFireWithFire
+			whiplash
 		]
 		stars = 51
 		level = load_z_drum_kit
 	}
 	tier8 = {
-		title = qs("Guest Artists in London")
+		title = qs("why is this the last song")
 		songs = [
-			DoubleVision
-			DopeNose
-			SemiCharmedLife
-			IWantItAll
+			TheThingThat
 		]
 		stars = 60
-		level = load_z_London
+		level = load_z_Starwood
 	}
 	tier9 = {
-		title = qs("Van Halen in The Netherlands")
+		title = qs("Death Magnetic Downloadable Content")
 		songs = [
-			YouReallyGotMe
-			FeelYourLoveTonight
-			SoThisIsLove
-			LittleGuitars
+			ThatWasJustYourLife
+			TheEndOfTheLine
+			BrokenBeatAndScarred
+			TheDayThatNeverComes
+			Cyanide
+			TheUnforgivenIII
+			TheJudasKiss
+			MyApocalypse
 		]
 		stars = 69
-		level = load_z_frankenstrat
-	}
-	tier10 = {
-		title = qs("Van Halen in the Early Years")
-		songs = [
-			hotforteacher
-			HearAboutItLater
-			MeanStreet
-			DanceTheNightAway
-		]
-		stars = 82
-		level = load_z_Starwood
+		level = load_z_London
 	}
 }
 GH4_Career_Vocals_Progression_Unlock_Order = {
@@ -149,10 +154,6 @@ GH4_Career_Vocals_Progression_Unlock_Order = {
 		gig9 = {
 			name = 'gig9'
 			num = 9
-		}
-		gig10 = {
-			name = 'gig10'
-			num = 10
 		}
 	}
 }
