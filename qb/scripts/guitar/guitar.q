@@ -618,6 +618,9 @@ script guitar_startup
 		LoadFSB \{filename = 'streams/streamall'
 			numstreams = 4
 			nowait}
+		LoadFSB \{filename = 'streams/metallica_sounds'
+			numstreams = 4
+			nowait}
 		change streamall_fsb_index = <fsb_index>
 		print_loading_time StartTime = <StartTime> text = qs("\Lstreams/streamall")
 		GetStartTime
