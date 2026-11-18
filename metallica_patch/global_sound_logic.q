@@ -5287,47 +5287,61 @@ endscript
 
 script Menu_Guitar_Lick_SFX 
 	RandomNoRepeat (
-		@ PlaySound \{Menu_Intro_Lick_02
-			vol = -1}
+		@ PlaySound \{Menu_Intro_Lick_02_ghm
+			vol = -7}
 		spawnscriptnow \{menu_music_on
 			params = {
 				waitforguitarlick = 1
-				guitarwaittime = 2.9
+				guitarwaittime = 2.0
 			}}
-		@ PlaySound \{Menu_Intro_Lick_03
-			vol = -1}
+		@ PlaySound \{Menu_Intro_Lick_03_ghm
+			vol = -8}
 		spawnscriptnow \{menu_music_on
 			params = {
 				waitforguitarlick = 1
-				guitarwaittime = 3.7
+				guitarwaittime = 3.1
 			}}
-		@ PlaySound \{Menu_Intro_Lick_05
-			vol = -1}
+		@ PlaySound \{Menu_Intro_Lick_05_ghm
+			vol = -7}
 		spawnscriptnow \{menu_music_on
 			params = {
 				waitforguitarlick = 1
-				guitarwaittime = 5.3
+				guitarwaittime = 6.0
 			}}
-		@ PlaySound \{Menu_Intro_Lick_06
-			vol = -1}
-		spawnscriptnow \{menu_music_on
-			params = {
-				waitforguitarlick = 1
-				guitarwaittime = 3.7
-			}}
-		@ PlaySound \{Menu_Intro_Lick_07
-			vol = -1}
+		@ PlaySound \{Menu_Intro_Lick_06_ghm
+			vol = -7}
 		spawnscriptnow \{menu_music_on
 			params = {
 				waitforguitarlick = 1
 				guitarwaittime = 3.8
 			}}
-		@ PlaySound \{Menu_Intro_Lick_11
-			vol = -1}
+		@ PlaySound \{Menu_Intro_Lick_07_ghm
+			vol = -7}
 		spawnscriptnow \{menu_music_on
 			params = {
 				waitforguitarlick = 1
-				guitarwaittime = 7.3
+				guitarwaittime = 2.0
+			}}
+		@ PlaySound \{Menu_Intro_Lick_09_ghm
+			vol = -5}
+		spawnscriptnow \{menu_music_on
+			params = {
+				waitforguitarlick = 1
+				guitarwaittime = 3.8
+			}}
+		@ PlaySound \{Menu_Intro_Lick_11_ghm
+			vol = -7}
+		spawnscriptnow \{menu_music_on
+			params = {
+				waitforguitarlick = 1
+				guitarwaittime = 3.0
+			}}
+		@ PlaySound \{Menu_Intro_Lick_13_ghm
+			vol = -5}
+		spawnscriptnow \{menu_music_on
+			params = {
+				waitforguitarlick = 1
+				guitarwaittime = 4.0
 			}}
 		)
 endscript
